@@ -1,0 +1,6 @@
+{
+  "name": "Colab Mobile Workspace",
+  "description": "Seamless Google Colab code editing, model training, remote server management, and Google Drive file sync on mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
